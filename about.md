@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+没有泪光风里劲闯 怀着心中新希望 能冲一次 多一次 不息自强
+没有泪光风里劲闯 重植根于小岛岸 如天可变风可转 不息自强 这方向
 
-email: agus[at]python.web.id
+email: 631930821@qq.com 

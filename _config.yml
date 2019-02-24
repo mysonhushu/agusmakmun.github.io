@@ -1,8 +1,12 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+title: huyouxiao.com-瓠悠笑 
+description:  >- # this means to ignore newlines until "baseurl:"
+  谁人定我去或留, 定我心中的宇宙, 只想靠两手, 向理想挥手.
+  问句天几高, 心中志比天更高, 自信打不死的心态活到老.
+  我有我心底故事, 亲手写上每段得失乐与悲与梦儿.
+  纵有创伤不退避, 梦想有日达成找到心底梦想的世界, 终可见. 
+author: Hu Xing 
+github: https://github.com/mysonhushu/
+about: 五石之瓠 以为大樽 浮于江湖 悠笑人生 
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -25,21 +29,29 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/mysonhushu"
 
 share:
   twitter_username: github.io
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    - text: 博客 
+      url: /blog/
+    - text: 视频 
+      url: /videos/
+    - text: 文档 
+      url: /ebooks/
+    - text: 电子书 
+      url: /ebooks/
+    - text: 音乐 
+      url: /music/
+    - text: 文学 
+      url: /literature/
+    - text: 古文 
+      url: /ancient/
 
-url: "https://agusmakmun.github.io"
+url: "https://huyouxiao.com"
 baseurl: ""
 paginate: 20
 per_page: 20
